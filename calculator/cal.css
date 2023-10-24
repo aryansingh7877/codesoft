@@ -1,0 +1,19 @@
+ #ip{ 
+width:140px;
+height:30px ;
+border:8% solid;
+background-color: green;
+
+margin-bottom: 7px;
+
+} 
+button{
+height: 40px;
+border-color:black;
+
+border:3px double ;
+border-radius: 10px;
+margin-bottom: 5px;
+background-color:azure;
+border-style:ridge;
+}
